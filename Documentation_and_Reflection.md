@@ -1,4 +1,5 @@
 # Frontend Mentor - Digitalbank landing page solution
+## Completed by Mamadou Moussa BALDE
 
 This is a solution to the [Digitalbank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/digital-bank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -30,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/baldemoussa/SBA_3_Design_and_Development)
+- Live Site URL: [Not published yet]()
 
 ## My process
 
@@ -67,4 +68,4 @@ In future projects, I want to focus on refining my CSS architecture to make it m
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@baldemoussa](https://www.frontendmentor.io/profile/baldemoussa)
